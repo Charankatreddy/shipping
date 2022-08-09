@@ -56,8 +56,8 @@ jobs:
          dockerfile: docker/shipping/Dockerfile
          path: target/
          registry: docker.io
-         image: venupj/sockshop
+         image: charankatreddy/sockshop
          #push: true
-         #tags: venupj/sockshop:shipping
+         #tags: charankatreddy/sockshop:shipping
           #tag_with_ref:true
           #tag_with_sha:true   
